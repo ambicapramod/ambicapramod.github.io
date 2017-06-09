@@ -71,6 +71,12 @@
   <meta property="og:site_name" content="{{ site.author.name }}">
   <meta property="og:locale" content="{{ site.og_locale }}">
 
+  <!-- Social: Twitter -->
+  <meta name="twitter:card" content="{{ site.twitter_card }}">
+  <meta name="twitter:site" content="{{ site.twitter_site }}">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image:src" content="{{ page_image }}">
 
   <!-- Social: Google+ / Schema.org  -->
   <meta itemprop="name" content="{{ page_title }}">

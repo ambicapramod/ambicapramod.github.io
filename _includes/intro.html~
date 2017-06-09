@@ -1,0 +1,9 @@
+<section class="intro">
+  <div class="container">
+    <p class="lead">Welcome to  <strong class="author-name" itemprop="name">{{ site.author.name }}</strong>-<em itemprop="jobTitle">{{ site.author.job }}</em> <br>
+    {{ site.author.bio }}</p>
+
+  </div>
+
+
+</section>

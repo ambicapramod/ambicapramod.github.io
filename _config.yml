@@ -3,15 +3,15 @@
 title: "Bi"
 title2: "dda" # default: ""
 description: "Data Science | NLP | Life."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords: "nlp, data science, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://ambicapramod.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+disqus_shortname: "ambicapramod-github-io"
+twitter_username: "pramodrulx"
 comments: true
 
 # Build settings
@@ -29,14 +29,14 @@ sass:
 
 # Author settings
 author:
-  name     : "Ambica Pramod"
-  job      : "Student in VIT University , Chennai"
-  bio      : "A smooth sea never made a skilled sailor."
+  name     : "Bidda"
+  job      : "A one stop platfrom for Data Science related topics."
+  bio      : "A smooth sea never made a skilled sailor"
   thumb    : /images/author.jpg
   email    : ambicapramod@gmail.com	
   url      : ambicapramod.github.io
   github   : http://github.com/ambicapramod
-  twitter  : 
+  twitter  : http://twitter.com/pramodrulx
   facebook : https://www.facebook.com/http404error
   linkedin : http://linkedin.com/in/ambicapramod
 
