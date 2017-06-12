@@ -32,7 +32,7 @@ There are many more applications in Machine transalation , predicting the comple
 ***
 Our goal is to compute the probability of sequence of words.
 >P(w) = p(w1,w2,w3,...,wn).
-
+\\( sin(x^2) \\)
 Now, from the Bayes theorem we already have the idea that\\
 **P(B|A) = P(A,B)/P(A)**\\
 that implies,\\

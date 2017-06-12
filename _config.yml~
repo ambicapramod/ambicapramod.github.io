@@ -16,7 +16,7 @@ comments: true
 
 # Build settings
 permalink   : /:year/:title/
-markdown    : kramdown
+markdown    : redcarpet
 highlighter : rouge
 
 source: ./
@@ -38,7 +38,7 @@ author:
   github   : http://github.com/ambicapramod
   twitter  : http://twitter.com/pramodrulx
   facebook : https://www.facebook.com/http404error
-  linkedin : http://linkedin.com/in/ambicapramod
+  linkedin : http://linkedin.com/in/ambicapramo
 
 # social settings
 og_locale: "en_US"
